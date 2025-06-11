@@ -1,0 +1,150 @@
+.navbar-nav{
+    padding: 0 8% 0;
+}
+.navbar-brand{
+    margin-left: 40px;
+}
+.nav-item{
+    margin: 0 15px 0;
+}
+.container-fluid{
+    padding: 2% 2%;
+}
+body{
+    
+}
+h3{
+    text-align: center;
+}
+#sub-nav{
+    background-color: black;
+    text-align: center;
+    padding: 5px 0;
+}
+.overseas-img{
+    width: 100px;
+    margin-bottom: 15px;
+}
+.sub-nav-txt{
+    color: #fff;
+    display: inline-block;
+    padding: 0 20px;
+}
+.logistics-img{
+    width: 100%;
+    height: 100%;
+    position: relative;
+}
+.opacity{
+    position: absolute;
+    background-color: #00000080;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+}
+#homepage{
+}
+.p-txt-1{
+    margin: 0;
+}
+.sub-nav-btn{
+    margin-bottom: 15px;
+}
+.p-txt-2{
+    text-align: center;
+    position: absolute;
+    color: #fff;
+    top: 60%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+    margin-top: 105PX;
+}
+.d-flex{
+    margin-top: 100PX;
+}
+.search-btn{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 2;
+}
+}
+.search-box{
+    border-radius: 0%;
+}
+#delivery{
+    background-color: #EDEDED;
+    padding: 6% 3%;
+}
+.delivery-1{
+    padding: 20px;
+    font-size: 2.5rem;
+    font-weight: bold;
+}
+.delivery-pg{
+    background-color: #fff;
+    padding: 3%;
+    border: solid 1px #EDEDED;
+}
+.col-lg-3:hover {
+    background-color: black;
+    color: #fff;
+}
+#page-3{
+    background-color: black;
+}
+h1{
+    color: #fff;
+    font-size: 2.2rem;
+    line-height: 1.3;
+    font-weight: bold;
+}
+.pg-3-txt{
+    margin-top: 15%;
+    margin-bottom: 10px;
+}
+.appstore{
+    font-size: 1.3rem;
+    display: block;
+    margin: 0 0 2px 0;
+}
+.googleplay{
+    font-size: 1.3rem;
+    display: block;
+    margin: 0 0 2px 0;
+}
+.appstore1{
+    font-size: 0.7rem;
+}
+.googleplay1{
+    font-size: 0.7rem;
+}
+.bn2{
+}
+.fa-brands{
+    padding-right: 15px;
+    padding-top: 15px;
+}
+#page-4{
+    background-color: #EDEDED;
+    padding: 7% 2%;
+}
+#footer{
+    background-color: black;
+    padding: 7% 12%;
+    color: #ededed;
+}
+.atags{
+    text-decoration: none;
+    color: #ededed;
+    display: block;
+}
+.atags:hover{
+    color: #fff;
+}
+.fa-brands1{
+    color: #ededed;
+    padding: 1opx;
+}
